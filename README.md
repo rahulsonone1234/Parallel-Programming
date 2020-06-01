@@ -81,8 +81,8 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 ## Authors
 
 * **Team Trident** - *work* - [rahulsonone1234](https://github.com/rahulsonone1234)
-                            - [rushikeshkorde25](https://github.com/rushikeshkorde25)
-                            - [saurabhzade](https://github.com/saurabhzade)
+                            - [rushikeshkorde](https://github.com/rushikeshkorde)
+                            - [saurabhzade](https://github.com/saurabhzade077)
 
 See also the list of [contributors]() who participated in this project.
 
