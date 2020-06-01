@@ -1,72 +1,78 @@
 ![Logo of the project](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSHrzFNq4s4MazWfSuSDZEjCYk_mK6N64PGNDeaJpNSci2OX2Ft&usqp=CAU)
 
 # Parallel-Programming
-Implementation of an Image Processing Library for time consuming operations such as Image Blurring,Negation,Edge Detection and Contrast Stretching.
+Implementation of an Image Processing Library for time consuming operations such as Image Blurring,Negation,Edge Detection and Contrast Stretching with help of sobel and gaussian Filters
 
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
-
+1. Clone the Repos/Project
+2. For libpng, run:
+```
+sudo apt-get install libpng-dev
+```
+For zlib, run:
+```
+sudo apt-get install zlib1g-dev
+```
+3. run the programm
 ### Prerequisites
-
-What things you need to install the software and how to install them
-
+ For libpng, run:
 ```
-Give examples
+sudo apt-get install libpng-dev
 ```
-
-### Installing
-
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
-
+For zlib, run:
 ```
-Give the example
+sudo apt-get install zlib1g-dev
+````
+### Installing/ Compilation
+##Compile
 ```
-
+gcc -o filename -fopenmp filename.c -lpng
+```
+##run
+```
+./filename
+```
 And repeat
 
 ```
 until finished
 ```
 
-End with an example of getting some data out of the system or using it for a little demo
-
 ## Running the tests
 
-Explain how to run the automated tests for this system
+Rest all the things will be done by the compiler i.e taking an image as a input performing operations etc.
 
 ### Break down into end to end tests
 
-Explain what these tests test and why
+testCases
 
 ```
-Give an example
+Not yet
 ```
 
 ### And coding style tests
 
-Explain what these tests test and why
-
-```
-Give an example
-```
+Procedural Programming
 
 ## Deployment
 
-Add additional notes about how to deploy this on a live system
+Not Yet 
+```
+Work in Progress
+```
 
-## Built With
+## References
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* [OpenMP](https://www.youtube.com/playlist?list=PLLX-Q6B8xqZ8n8bwjGdzBJ25X2utwnoEG) -Introduction to Parallel Programming by Tim Matson
+* [PNG](http://www.libpng.org/pub/png/pngmisc.html#lists) -PNG Image Specification
+* [PNG](https://libpng.sourceforge.io/index.html) - PNG Reference Library: libpng
+* [OpenMP](https://www.openmp.org/) - OpenMP docs
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+//Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## Versioning
 
@@ -74,7 +80,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Team Trident** - *Initial work* - [rahulsonone1234](https://github.com/rahulsonone1234)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
@@ -84,6 +90,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+```
+Dr. Nileshchandra Pikle Sir 
+```
+who guided us in overall project development life cycle
