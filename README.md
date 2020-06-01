@@ -72,7 +72,7 @@ Work in Progress
 
 ## Contributing
 
-//Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+//Please read [CONTRIBUTING.md](https://gist.github.com/rahulsonone1234) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## Versioning
 
@@ -80,9 +80,11 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **Team Trident** - *Initial work* - [rahulsonone1234](https://github.com/rahulsonone1234)
+* **Team Trident** - *work* - [rahulsonone1234](https://github.com/rahulsonone1234)
+                            - [rushikeshkorde25](https://github.com/rushikeshkorde25)
+                            - [saurabhzade](https://github.com/saurabhzade)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+See also the list of [contributors]() who participated in this project.
 
 ## License
 
