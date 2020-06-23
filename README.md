@@ -46,11 +46,61 @@ Rest all the things will be done by the compiler i.e taking an image as a input 
 
 ### Break down into end to end tests
 
-testCases
+### Operations Performed and Speedup Achived
+1)Image blurrring
+<figure>
+ <img src="imageblurring.gif" width="400" alt="Combined Image" />
+ <figcaption>
+ <p></p> 
+ </figcaption>
+</figure>
+<figure>
+ <img src="imageblurringgraph.png" width="400" alt="Combined Image" />
+ <figcaption>
+ <p></p> 
+ </figcaption>
+</figure>
 
-```
-Not yet
-```
+2)Edge Detection
+<figure>
+ <img src="edgedetection.gif" width="400" alt="Combined Image" />
+ <figcaption>
+ <p></p> 
+ </figcaption>
+</figure>
+<figure>
+ <img src="edgedetectiongraph.png" width="400" alt="Combined Image" />
+ <figcaption>
+ <p></p> 
+ </figcaption>
+</figure>
+
+3)Contrast Stretching
+<figure>
+ <img src="contraststretching.gif" width="400" alt="Combined Image" />
+ <figcaption>
+ <p></p> 
+ </figcaption>
+</figure>
+<figure>
+ <img src="contraststretchinggraph.png" width="400" alt="Combined Image" />
+ <figcaption>
+ <p></p> 
+ </figcaption>
+</figure>
+4)Image Negation
+<figure>
+ <img src="imagenegation.gif" width="400" alt="Combined Image" />
+ <figcaption>
+ <p></p> 
+ </figcaption>
+</figure>
+<figure>
+ <img src="imagenegationgraph.png" width="400" alt="Combined Image" />
+ <figcaption>
+ <p></p> 
+ </figcaption>
+</figure>
 
 ### And coding style tests
 
